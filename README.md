@@ -1,6 +1,6 @@
 # Connor Fogg
 
-Software engineer in American Fork, UT. I just finished the coursework for an M.S. in Computer Science at Utah Valley University (degree conferral pending).
+Software engineer in American Fork, UT. I just finished the coursework for an M.S. in Computer Science at Utah Valley University.
 
 Most of what I build is full-stack and AI-flavored: React/TypeScript on the front, PostgreSQL/Supabase behind it, and LLM features that get actually evaluated instead of just demoed. Before grad school I ran operations for a 10+ person business, which mostly means I care whether the people using a tool can actually use it.
 
